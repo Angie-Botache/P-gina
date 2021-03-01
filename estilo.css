@@ -1,0 +1,19 @@
+* {font-family: Akaya Telivigala, cursive; color: white} 
+
+
+html { background-image: url("pexels-fábio-nuno-4272478.jpg"); background-repeat: no-repeat; background-size: 1800px 1000px;}
+
+
+.img {display: block; position: absolute; margin:auto; margin-top: 5px; margin-left: 583px; height: 200px; clip-path: circle(50% at 50% 50%);}
+.img2 {display: block; position: relative; margin:auto; margin-top: 180px; height: 210px; width: 210px; clip-path: circle(50% at 50% 50%); z-index: -1}
+
+
+h1 {display: block; position: relative; margin: auto; text-align: center; margin-top: 10px}
+h3 {display: block; position: relative; margin: auto; text-align: center; margin-top: 5px}*/
+  
+
+
+
+
+
+
